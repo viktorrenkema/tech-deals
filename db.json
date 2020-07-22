@@ -1,11 +1,14 @@
-"products": [
+{
+  "products": [
        {
           "id": "airpods-pro",
           "name": "Apple Airpods Pro",
           "details": "Met Apple AirPods Pro worden jouw favoriete deuntjes niet meer onderbroken door een luidruchtige omgeving.",
           "price": "$139.99",
           "oldprice": "$199.99",
-          "image": "https://image.coolblue.nl/max/2048x1536/products/1341156"
+          "image": "https://image.coolblue.nl/max/2048x1536/products/1341156",
+         "vendor": "Coolblue",
+         "vendorlink": "https://www.coolblue.nl/product/836165/garmin-vivoactive-4l-zwart-45-mm.html"
         },
       {
           "id": "ipad-air",
@@ -13,7 +16,9 @@
           "details": "Apple iPad Air (3e generatie, 2019) 64GB Wifi + 4G Space Gray gebruik je als vervanger voor je laptop dankzij de krachtige A12 bionic-chip.",
           "price": "$349.99",
           "oldprice": "$449.99",
-          "image": "https://image.coolblue.nl/max/2048x1536/products/1415008"
+          "image": "https://image.coolblue.nl/max/2048x1536/products/1415008",
+          "vendor": "Coolblue",
+         "vendorlink": "https://www.coolblue.nl/product/836165/garmin-vivoactive-4l-zwart-45-mm.html"
         },
       {
           "id": "canon-eos-6d",
@@ -21,7 +26,9 @@
           "details": "De Canon EOS 6D Mark II Body is een spiegelreflexcamera met een 26,2 megapixel full frame sensor en DIGIC 7 beeldprocessor.",
           "price": "$1319.95",
           "oldprice": "$1559.95",
-          "image": "https://image.coolblue.nl/max/2048x1536/products/1382363"
+          "image": "https://image.coolblue.nl/max/2048x1536/products/1382363",
+          "vendor": "Coolblue",
+         "vendorlink": "https://www.coolblue.nl/product/836165/garmin-vivoactive-4l-zwart-45-mm.html"
         },
       {
           "id": "garmin-vivoactive-4l",
@@ -29,10 +36,12 @@
           "details": "Waak over je gezondheid met verbeter deze met de Garmin Vivoactive 4. Naast standaard gegevens meet het ook je fitnessleeftijd aan de hand van een VO2 max meting. ",
           "price": "$329",
           "oldprice": "$269",
-          "image": "https://image.coolblue.nl/max/2048x1536/products/1388447"
+          "image": "https://image.coolblue.nl/max/2048x1536/products/1388447",
+          "vendor": "Coolblue",
+          "vendorlink": "https://www.coolblue.nl/product/836165/garmin-vivoactive-4l-zwart-45-mm.html"
         }
   ],
   "profile": {
     "name": "viktorrenkema"
   }
-
+}
