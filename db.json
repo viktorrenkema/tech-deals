@@ -1,5 +1,4 @@
-{
-  "products": [
+"products": [
        {
           "id": "airpods-pro",
           "name": "Apple Airpods Pro",
@@ -36,4 +35,4 @@
   "profile": {
     "name": "viktorrenkema"
   }
-}
+
